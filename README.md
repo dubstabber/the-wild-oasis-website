@@ -10,7 +10,7 @@
 
 The Wild Oasis is a full-stack luxury cabin booking platform built with modern web technologies. Set in the heart of the Italian Dolomites, this application offers guests a seamless experience to browse, book, and manage reservations for high-end mountain retreats.
 
-### ✨ Live Demo: [Visit The Wild Oasis](https://dubstabber.github.io/the-wild-oasis-website)
+### ✨ Live Demo: [Visit The Wild Oasis](https://the-wild-oasis-website-roan-eta.vercel.app)
 
 ## 🚀 Key Features
 
